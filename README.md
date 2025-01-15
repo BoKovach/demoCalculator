@@ -1,1 +1,1 @@
-# Semple demo calculator
+# Semple demo calculator with React.js
